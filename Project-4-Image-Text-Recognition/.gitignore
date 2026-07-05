@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+.vscode/
+*.log
+models/MobileNetSSD_deploy.prototxt
+models/MobileNetSSD_deploy.caffemodel
+outputs/
